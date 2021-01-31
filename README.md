@@ -4,7 +4,7 @@
 
 [![Generic badge](https://img.shields.io/badge/STATUS-WORKING-<COLOR>.svg)](https://shields.io/)
 
-======
+***
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
@@ -14,7 +14,7 @@
  <a href="#tecnologias">Tecnologias</a>
 </p>
 
-======
+***
 
 ### Sobre
 
@@ -26,7 +26,7 @@
 
 <p> Considerando a apertada rotina de aulas e consultoria que ainda presto não determinarei um prazo para a finalização desse projeto, o que vai tornar o planejamento ainda mais primordial para o bom andamento</p>
 
-======
+***
 
 ### 🚧 Features 🚧
 
@@ -38,7 +38,7 @@
 - [ ] Salvar o registro do quadro em Local Storage
 - [ ] Salvar o registro do quadro em PNG
 
-======
+***
 
 ### Versões
 
@@ -52,10 +52,9 @@
 
 ###### [EM BREVE]
 
-======
+***
 
 ### Tecnologias
 
-[![ForTheBadge uses-html5](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-html5, CSS e JS](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+
