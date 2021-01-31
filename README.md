@@ -1,17 +1,20 @@
-# Pixel Art
+# Pixel Art 🚧
 
 ## Após várias horas de estudo que tal praticar um pouco de JavaScript? Esse é o objetivo do projeto Pixel Art.
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Features](#como-usar)
-   * [Versões](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+[![Generic badge](https://img.shields.io/badge/STATUS-WORKING-<COLOR>.svg)](https://shields.io/)
 
+***
+
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#features">Features</a> •
+ <a href="#versoes">Versões</a> •
+ <a href="#producao">Produção</a> •
+ <a href="#tecnologias">Tecnologias</a>
+</p>
+
+***
 
 ### Sobre
 
@@ -23,7 +26,10 @@ Tabela de conteúdos
 
 <p> Considerando a apertada rotina de aulas e consultoria que ainda presto não determinarei um prazo para a finalização desse projeto, o que vai tornar o planejamento ainda mais primordial para o bom andamento</p>
 
-### Features
+***
+
+### 🚧 Features 🚧
+
 - [X] Tabela inicial de pixels
 - [X] Paleta de cores inicial
 - [X] Botão limpar quadro
@@ -32,10 +38,25 @@ Tabela de conteúdos
 - [ ] Salvar o registro do quadro em Local Storage
 - [ ] Salvar o registro do quadro em PNG
 
+***
+
+### Versões
+
+- [X] V.1.0 - Tabela estática de pixels 20x20 e paleta fixa de 4 cores
+
+###### Gif da V.1.1 - Em funcionamento [EM BREVE]
+
+###### Vídeo da V.1.1 - Desenvolvimento e utilização [EM BREVE]
+
+- [X] V.1.1 - Em desenvolvimento: Tabela de píxels e paleta customizável pelo usuário 
+
+###### [EM BREVE]
+
+***
+
 ### Tecnologias
 
-<p>Esse projeto foi realizado utilizando:</p>
+[![ForTheBadge uses-html5](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-CSS](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-JS](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
-![HTML5](/images/HTML5-icone.jpg)
-![JavaScript](/images/JS.jpg)
-![CSS](/images/CSS.jpeg)
