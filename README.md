@@ -30,7 +30,11 @@
 
 ### Teste a Ferramenta
 
-<p>É possível testar a versão atual em:</p> [Projeto Pixel Art](https://jiarguello.github.io/Pixel-Art/)
+<p>É possível testar a versão atual em:</p> 
+
+<a href="https://jiarguello.github.io/Pixel-Art/">Projeto Pixel Art</a>
+
+[Projeto Pixel Art] (https://jiarguello.github.io/Pixel-Art/)
 
 ***
 
