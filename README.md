@@ -36,4 +36,6 @@ Tabela de conteúdos
 
 <p>Esse projeto foi realizado utilizando:</p>
 
-<img src="https://simpleicons.org/icons/html5.svg&color=#E34F26&style=for-the-badge&logo=ghost"/>
+![HTML5](/images/HTML5-icone.jpg)
+![JavaScript](/images/JS.jpg)
+![CSS](/images/CSS.jpeg)
