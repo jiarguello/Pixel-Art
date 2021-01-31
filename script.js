@@ -19,13 +19,13 @@ function createPalette() {
 function createTable() {
   const tablePixelLocation = document.querySelector('#pixel-board')
 
-  for (let index = 0; index < 25; index += 1) {
+  for (let index = 0; index < 20; index += 1) {
     const createPixelLine = document.createElement('tr')
     createPixelLine.className = 'line'
   
     tablePixelLocation.appendChild(createPixelLine)
 
-    for (let index = 0; index < 25; index += 1) {
+    for (let index = 0; index < 20; index += 1) {
       const createPixelColumn = document.createElement('td')
       createPixelColumn.className = 'pixel'
 
