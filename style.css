@@ -1,0 +1,68 @@
+
+button {
+  margin: auto;
+  min-width: 60px;
+  text-align: center;
+  width: 30%;
+}
+
+#button {
+  margin-left: 15%;
+  margin-top: 25px;
+  width: 100%;
+}
+
+#color-palette {
+  background-color: black;
+  border: solid black 1px;
+  border-radius: 5%;
+  padding: 50px;
+  margin: auto;
+  padding: 10px;
+}
+
+#menu {
+  background-color: darkblue;
+  border: solid black 3px;
+  height: 95%;
+  position: absolute;
+  width: 20%;
+}
+
+#pixel-board {
+  left: 50%;
+  margin: auto;
+  margin-right: -50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+}
+
+#tablePixel {
+  height: 95%;
+  margin-left: 22%;
+  position: absolute;
+  width: 70%;
+}
+
+#title {
+  color: white;
+  text-align: center;
+}
+
+.colorPalette {
+  border: solid white 1px;
+  height: 40px;
+  width: 40px;
+}
+
+.pixel {
+  background-color: white;
+  border: solid black 0.5px;
+  height: 20px;
+  width: 20px;
+}
+
+.selected {
+  border: solid yellow 3px;
+}
