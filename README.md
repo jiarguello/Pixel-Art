@@ -7,11 +7,11 @@
 ***
 
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#features">Features</a> •
- <a href="#versoes">Versões</a> •
- <a href="#producao">Produção</a> •
- <a href="#tecnologias">Tecnologias</a>
+ <a href="#Sobre">Sobre</a> •
+ <a href="#Teste a Ferramenta">Teste a Ferramenta</a> •
+ <a href="#Features">Features</a> •
+ <a href="#Versões">Versões</a> •
+ <a href="#Tecnologias">Tecnologias</a>
 </p>
 
 ***
@@ -27,6 +27,13 @@
 <p> Considerando a apertada rotina de aulas e consultoria que ainda presto não determinarei um prazo para a finalização desse projeto, o que vai tornar o planejamento ainda mais primordial para o bom andamento</p>
 
 ***
+
+### Teste a Ferramenta
+
+<p>É possível testar a versão atual em: [Projeto Pixel Art](https://jiarguello.github.io/Pixel-Art/)</p>
+
+***
+
 
 ### 🚧 Features 🚧
 
