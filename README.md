@@ -57,6 +57,6 @@
 ### Tecnologias
 
 [![ForTheBadge uses-html5](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-CSS](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-JS](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-CSS](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-JS](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
